@@ -8,8 +8,8 @@
  - JavaScript   to develop interactive web applications.
  - CSS for styling
  # Contact info:
- dianzkibgalifan@gmail.com
- diana.kwamboka@student.moringaschool
- 0706941602
+ - dianzkibgalifan@gmail.com
+ - diana.kwamboka@student.moringaschool
+ - 0706941602
  
  
