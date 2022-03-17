@@ -9,7 +9,7 @@
     justify-content: center;
 }
 .Description{
-    background-image: url(./assets/backgrounds/h_img.jpg);
+    background-image: url(../assets/backgrounds/h_img.jpg);
     height: 100vh;
     background-size: cover;
     text-align: center;
@@ -28,20 +28,18 @@
     justify-content: center;
 }
 .S3{
-    background-image: url(./assets/backgrounds/s_image.jpg);
+    background-image: url(../assets/backgrounds/s_image.jpg);
     height: 55vh;
     background-repeat: no-repeat;
     background-position: relative;
     display: flex;
     align-items: center;
     text-align: center;
-    text-decoration-color: rgb(239, 243, 243);
+    text-decoration-color: white;
     text-decoration: rgb(59, 61, 61);
 }
-.services{
-}
 .container-fluid {
-    background-image: url(./assets/backgrounds/c_image.jpg);
+    background-image: url(../assets/backgrounds/c_image.jpg);
     height: 50vh;
     background-repeat: no-repeat;
     text-align: center;
