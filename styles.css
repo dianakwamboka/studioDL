@@ -7,9 +7,12 @@
     display: flex;
     text-align: center;
     justify-content: center;
+    text-decoration-color: white;
+    text-decoration: white;
+    text-decoration: aliceblue;
+    color: rgb(242, 245, 247);
 }
 .Description{
-    background-image: url(../assets/backgrounds/h_img.jpg);
     height: 100vh;
     background-size: cover;
     text-align: center;
@@ -36,12 +39,20 @@
     align-items: center;
     text-align: center;
     text-decoration-color: white;
-    text-decoration: rgb(59, 61, 61);
+    text-decoration: rgb(243, 247, 247);
+    color: aliceblue;
+
 }
 .container-fluid {
-    background-image: url(../assets/backgrounds/c_image.jpg);
     height: 50vh;
     background-repeat: no-repeat;
     text-align: center;
     justify-content: center; 
+}
+.footer{
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+
+
 }
