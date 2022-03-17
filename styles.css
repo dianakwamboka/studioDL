@@ -7,9 +7,7 @@
     display: flex;
     text-align: center;
     justify-content: center;
-    text-decoration-color: white;
     text-decoration: white;
-    text-decoration: aliceblue;
     color: rgb(242, 245, 247);
 }
 .Description{
@@ -38,7 +36,6 @@
     display: flex;
     align-items: center;
     text-align: center;
-    text-decoration-color: white;
     text-decoration: rgb(243, 247, 247);
     color: aliceblue;
 
