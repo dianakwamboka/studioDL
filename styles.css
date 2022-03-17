@@ -50,6 +50,7 @@
     display: flex;
     justify-items: center;
     justify-content: center;
-
-
+}
+.mouseclick{
+    height: 30vh;
 }
