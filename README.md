@@ -6,4 +6,4 @@
  # Technologies used:
  - HTML for making webpages
  -  CSS for styling
- - 
+ - JavaScript   to develop interactive web applications.
