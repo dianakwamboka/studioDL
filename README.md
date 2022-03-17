@@ -11,5 +11,6 @@
  - dianzkibgalifan@gmail.com
  - diana.kwamboka@student.moringaschool
  - 0706941602
- MIT LICENSE
+ # MIT LICENSE
+ 
  
