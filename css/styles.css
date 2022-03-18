@@ -1,5 +1,5 @@
 .section1{
-    background-image: url(../assets/backgrounds/h_img.jpg);
+    background-image: url(/assets/backgrounds/h_img.jpg);
     height: 80vh;
     background-size: cover;
     background-repeat: no-repeat;
@@ -29,7 +29,7 @@
     justify-content: center;
 }
 .S3{
-    background-image: url(../assets/backgrounds/s_image.jpg);
+    background-image: url(/assets/backgrounds/s_image.jpg);
     height: 55vh;
     background-repeat: no-repeat;
     background-position: relative;
