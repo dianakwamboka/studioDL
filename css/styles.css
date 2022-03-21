@@ -1,15 +1,16 @@
 .section1{
-    background-image: url(./assets/backgrounds/h_img.jpg);
+    background-image: url("/assets/backgrounds/h_img.jpg");
+    height: 80vh;
     background-size: cover;
     background-repeat: no-repeat;
     text-align:center;
     color: white;
 }
-description{
+/* .Description{
     text-align: center;
     display: flex;
-    justify-content: center;
-}
+    justify-content: center; */
+
 .S2{
     background-color: rgb(250, 252, 253);
     text-decoration: rgb(243, 239, 239);
@@ -23,22 +24,25 @@ description{
     justify-content: center;
 }
 .S3{
-    background-image: url(./assets/backgrounds/s_image.jpg);
+    background-image: url("/assets/backgrounds/s_image.jpg");
+    height: 50vh;
     background-repeat: no-repeat;
     background-position: relative;
-    align-items: center;
-    text-align: center;
+     text-align: center; 
     text-decoration: rgb(243, 247, 247);
-    color: aliceblue;
+    color: aliceblue; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
 
 }
 #chimp {
-    background-image: url(/assets/backgrounds/c_image.jpg);
+    background-image: url("/assets/backgrounds/c_image.jpg");
     background-repeat: no-repeat;
     text-align: center;
     justify-content: center; 
 }
-.
 .input{
     background-color: transparent;
 }
