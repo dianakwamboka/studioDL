@@ -1,5 +1,5 @@
 .section1{
-    background-image: url("/assets/backgrounds/h_img.jpg");
+    background-image: url("https://raw.githubusercontent.com/dianakwamboka/studioDL/master/assets/backgrounds/h_img.jpg");
     height: 80vh;
     background-size: cover;
     background-repeat: no-repeat;
@@ -24,7 +24,7 @@
     justify-content: center;
 }
 .S3{
-    background-image: url("/assets/backgrounds/s_image.jpg");
+    background-image: url("https://raw.githubusercontent.com/dianakwamboka/studioDL/master/assets/backgrounds/s_image.jpg");
     height: 50vh;
     background-repeat: no-repeat;
     background-position: relative;
@@ -38,7 +38,7 @@
 
 }
 #chimp {
-    background-image: url("/assets/backgrounds/c_image.jpg");
+    background-image: url("https://raw.githubusercontent.com/dianakwamboka/studioDL/master/assets/backgrounds/c_image.jpg");
     background-repeat: no-repeat;
     text-align: center;
     justify-content: center; 
